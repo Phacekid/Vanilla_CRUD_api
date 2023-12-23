@@ -1,0 +1,18 @@
+{
+  "name": "crud_api",
+  "version": "1.0.0",
+  "description": "vanilla nodejs CRUD API project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Phace",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}

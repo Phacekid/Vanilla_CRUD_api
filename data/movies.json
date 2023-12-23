@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "rating": "9.3",
+        "year": "1994",
+        "genre": "Drama",
+        "id": "866bf840-6d3a-4734-8ce9-f2915b2121f5"
+    },
+    {
+        "title": "The Godfather",
+        "rating": "9.2",
+        "year": "1972",
+        "genre": "Crime, Drama",
+        "id": "a63217c0-ca6f-4987-9539-89f7c0109d83"
+    },
+    {
+        "title": "The Dark Knight",
+        "rating": "9.0",
+        "year": "2008",
+        "genre": "Action, Crime, Drama",
+        "id": "bff3440d-b323-49fc-ac15-a83749b5c940"
+    },
+    {
+        "title": "Pulp Fiction",
+        "rating": "8.9",
+        "year": "1994",
+        "genre": "Crime, Drama",
+        "id": "193689f5-7232-4470-9448-58add2651008"
+    },
+    {
+        "title": "Fight Club",
+        "rating": "8.8",
+        "year": "1999",
+        "genre": "Drama",
+        "id": "3c926783-956b-4d5a-841d-ba39d56eb553"
+    }
+]
